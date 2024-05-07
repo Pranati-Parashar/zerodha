@@ -54,11 +54,9 @@ nav li a:hover {
 }
 
 .content-items img {
- 
   width: 80%;
   padding: 2rem;
   margin: 1rem;
-
 }
 
 .one {
@@ -103,9 +101,9 @@ li {
   padding: 0 20px;
   column-gap: inherit;
 }
-.social-links{
+.social-links {
   width: 25px;
-  gap:2rem;
+  gap: 2rem;
   display: flex;
   justify-content: space-around;
 }
